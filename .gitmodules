@@ -1,0 +1,6 @@
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5
+[submodule "automl"]
+	path = automl
+	url = https://github.com/google/automl
