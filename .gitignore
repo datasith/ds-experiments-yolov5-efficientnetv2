@@ -1,4 +1,6 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
+automl/*
+yolov5
 datasets/SKU110K_fixed/*
 *.jpg
 *.jpeg
