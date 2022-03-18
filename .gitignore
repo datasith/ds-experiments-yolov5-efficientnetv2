@@ -1,4 +1,6 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
+chkpts
+labels
 automl/*
 yolov5
 datasets/SKU110K_fixed/*
